@@ -5,10 +5,12 @@ describe('darkmode', () => {
        // cy.visit('https://cook-book-pied.vercel.app/').click()
        // cy.xpath("//button[@class='chakra-button css-15w88gn']").click()    //temp working
 
-        cy.visit('https://cook-book-pied.vercel.app/');
+        cy.visit('https://cook-book-pied.vercel.app/')   //(//button[@type="button"])[6]
 
         
-        cy.xpath('(//button[@type="button"])[1]').should('exist').click({force: true})
+        //cy.xpath('(//button[@type="button"])[1]').should('exist').click({force: true})
+
+        cy.xpath('//button[@type="button"])[6]').should('exist').click({force: true})
         
 
 
