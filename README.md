@@ -4,7 +4,7 @@
 Cookbook is a application, which allows users to create accounts, add recipes, and fetch them when needed
 
 ## Project Type
-Manual Testing | Automation Testing | 
+Manual Testing | Automation Testing 
 
 ## Deplolyed App
 Website: https://cook-book-pied.vercel.app/
@@ -34,9 +34,8 @@ Construct_week_project/
 
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
+https://youtu.be/Tdk91VRRoMM
 
-## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
 
 ## Features
 List out the key features of your application.
@@ -86,7 +85,7 @@ NA
 
 
 ## Technology Stack
-List and provide a brief overview of the technologies used in the project.
+List  of the technologies used in the project.
 
 - Node.js
 - Other libraries/modules
